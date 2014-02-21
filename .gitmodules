@@ -1,0 +1,3 @@
+[submodule "landslide-themes"]
+	path = landslide-themes
+	url = https://github.com/Kaljurand/landslide-themes.git
