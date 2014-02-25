@@ -76,6 +76,12 @@ Retrouvez vos logiciels libres préférés dans leur environnement naturel
 Question de vocabulaire
 =========================
 
+Quelques définitions
+----------------------
+
+:Noyau: Coeur de Linux
+:Distribution: Noyau + système de paquets + suite de logiciels
+
 ----
 
 Le Libre c'est aussi ...
@@ -97,6 +103,11 @@ Les standars ouverts
 ---------------------
 
 Permettant l'**interopérabilité**, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.
+
+----
+
+Le Libre c'est encore ...
+=========================
 
 Le matériel Libre
 ---------------------
