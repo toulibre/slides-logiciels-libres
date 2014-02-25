@@ -1,10 +1,10 @@
 Qui-sommes nous ?
 ==================
 
-**Toulibre**, association local de promotion du Logiciel Libre, créée en 2007, composée uniquement de bénévoles
+**Toulibre**, association locale de promotion du Logiciel Libre, créée en 2007, composée uniquement de bénévoles.
 
 * Promotion et démocratisation du Logiciel Libre et des oeuvres libres
-* Soutien aux communautés du libre
+* Soutien aux communautés du Libre
 
 Organisation de rencontres, d'ateliers, et autres événements autour du Libre.
 
