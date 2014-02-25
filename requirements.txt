@@ -1,1 +1,13 @@
-landslide
+Jinja2==2.7.2
+Markdown==2.4
+MarkupSafe==0.18
+PyYAML==3.10
+Pygments==1.6
+argh==0.24.1
+argparse==1.2.1
+docutils==0.11
+ghp-import==0.4.1
+landslide==1.1.1
+pathtools==0.1.2
+watchdog==0.7.1
+wsgiref==0.1.2
