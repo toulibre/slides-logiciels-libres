@@ -4,11 +4,12 @@ Un Logiciel Libre, c'est quoi ?
 Les 4 libertés
 -----------------
 
-* liberté 0 : 
-* liberté 1 : 
-* liberté 2 : 
-* liberté 3 : 
+* liberté 0 : d'utiliser
+* liberté 1 : de copier
+* liberté 2 : d'étudier
+* liberté 3 : de modifier le logiciel et de redistribuer les versions modifiées
 
+Cela implique d'avoir accès au code source, mais n'est pas une condition suffisante.
 
 ----
 
