@@ -25,7 +25,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Un Logiciel Libre, c'est quoi ?</title>
+    <title>Wordpress</title>
     <!-- Styles -->
     
     <style type="text/css" media="print">
@@ -1277,22 +1277,13 @@ aside {
     </div>
     <div class="slides">
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Un Logiciel Libre, c'est quoi ?</h1></header>
+            <header><h1>Wordpress</h1></header>
             
-            
-            <section><h2>Les 4 libertés</h2>
-<ul class="simple">
-<li>liberté 0 : d'utiliser</li>
-<li>liberté 1 : de copier</li>
-<li>liberté 2 : d'étudier</li>
-<li>liberté 3 : de modifier le logiciel et de redistribuer les versions modifiées</li>
-</ul>
-<p>Cela implique d'avoir accès au code source, mais n'est pas une condition suffisante.</p></section>
             
           </div>
           <div class="presenter_notes">
@@ -1304,35 +1295,37 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              1/7
+              1/11
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Quelques Logiciels Libres</h1></header>
+            <header><h1>Un site internet</h1></header>
             
             
-            <section><p>Vous connaissez déjà des Logiciels Libres</p>
+            <section><h2>C'est quoi ?</h2>
 <ul class="simple">
-<li>Naviguer sur Internet avec <strong>Firefox</strong></li>
-<li>Suite bureautique <strong>LibreOffice</strong></li>
-<li>Couteau suisse de la vidéo <strong>VLC</strong></li>
-<li>Retouche image <strong>Gimp</strong></li>
-<li>Dessin vectoriel <strong>Inkscape</strong></li>
-<li>...</li>
+<li>Des fichier HTML, language du Web</li>
+<li>stockés sur un serveur constamment connecté à Internet</li>
+<li>votre navigateur interprète le HTML</li>
 </ul>
-<p>En savoir plus sur l'annuaire du Libre
-<a class="reference external" href="http://framasoft.net/">http://framasoft.net/</a></p></section>
+
+
+<h2>Architecture client serveur</h2>
+<p>Un serveur est un PC connecté à Internet.</p>
+<object data="http://upload.wikimedia.org/wikipedia/commons/c/c9/Client-server-model.svg" type="image/svg+xml">
+http://upload.wikimedia.org/wikipedia/commons/c/c9/Client-server-model.svg</object>
+<p>Un serveur dans votre salon ? c'est possible !</p></section>
             
           </div>
           <div class="presenter_notes">
@@ -1344,31 +1337,125 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              2/7
+              2/11
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Passer à GNU/Linux</h1></header>
+            <header><h1>Les languages du Web : HTML</h1></header>
             
             
-            <section><h2>Libérez votre système</h2>
-<p>Retrouvez vos logiciels libres préférés dans leur environnement naturel</p>
+            <section><p>Le World Wide Web a eu <strong>25 ans</strong> le 12 mars 2014 !</p>
+
+<h2>Le HTML</h2>
+<p><em>HyperText Markup Language</em></p>
+<p>C'est le language de la page web, interprété par le navigateur.</p>
 <ul class="simple">
-<li>Les mêmes logiciels, et pleins d'autres</li>
-<li>Installation et utilisation accessible à tous</li>
-<li>Système sûr et fiable</li>
-<li>Permet d'aller plus loin dans l'utilisation et l'apprentissage de l'informatique</li>
+<li>Pour structurer le contenu</li>
+<li>language de balises, avec des attributs</li>
+</ul>
+<pre class="code html literal-block">
+<span class="name tag">&lt;html&gt;</span>
+  <span class="name tag">&lt;body&gt;</span>
+    <span class="name tag">&lt;h1&gt;</span>Titre<span class="name tag">&lt;h1&gt;</span>
+    <span class="name tag">&lt;p&gt;</span>paragraphe<span class="name tag">&lt;p&gt;</span>
+  <span class="name tag">&lt;/body&gt;</span>
+<span class="name tag">&lt;html&gt;</span>
+</pre></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="wordpress.rst">wordpress.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              3/11
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: wordpress.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Les languages du Web : CSS</h1></header>
+            
+            
+            <section><h2>Les CSS</h2>
+<p><em>Cascading Style Sheet</em></p>
+<ul class="simple">
+<li>Pour mettre des formes</li>
+<li>Propriétés, directives, valeurs</li>
+</ul>
+<pre class="code css literal-block">
+<span class="name tag">h1</span> <span class="punctuation">{</span>
+    <span class="keyword">color</span><span class="operator">:</span> <span class="name builtin">red</span><span class="punctuation">;</span>
+<span class="punctuation">}</span>
+</pre></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="wordpress.rst">wordpress.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              4/11
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: wordpress.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Les languages du Web : programmation</h1></header>
+            
+            
+            <section><p>Les sites dynamiques.</p>
+
+<h2>Côté serveur</h2>
+<p>Automatiser des opérations, faire des calculs, récupérer des données stockées dans des <strong>bases de données</strong>, des fichiers, ... et finalement générer des pages web.</p>
+<ul class="simple">
+<li>PHP</li>
+<li>Python</li>
+<li>Ruby</li>
+</ul>
+
+
+<h2>Côté client (navigateur)</h2>
+<p>Afficher les informations d'une autre manière que le flux html, animer des éléments, jusqu'à faire des jeux vidéos.</p>
+<ul class="simple">
+<li>Javascript</li>
 </ul></section>
             
           </div>
@@ -1381,35 +1468,42 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              3/7
+              5/11
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Question de vocabulaire</h1></header>
+            <header><h1>Les outils du Web</h1></header>
             
             
-            <section><h2>Quelques définitions</h2>
-<table class="docutils field-list" frame="void" rules="none">
-<col class="field-name" />
-<col class="field-body" />
-<tbody valign="top">
-<tr class="field"><th class="field-name">Noyau:</th><td class="field-body">Coeur de Linux</td>
-</tr>
-<tr class="field"><th class="field-name">Distribution:</th><td class="field-body">Noyau + système de paquets + suite de logiciels</td>
-</tr>
-</tbody>
-</table></section>
+            <section><h2>Les CMS (Content Management System)</h2>
+<p>Programme installé sur le serveur, permettant à l'internaute d'éditer plusieurs pages web avec le même cadre (menu, entête, pied de page)</p>
+<ul class="simple">
+<li>Drupal, Plone, Joomla, Spip : contenu généraliste</li>
+<li>Dokuwiki, Mediawiki : wiki</li>
+<li>Wordpress, Dotclear : blog</li>
+</ul>
+
+
+<h2>Les &quot;Framework&quot;</h2>
+<p>Ou <strong>Cadriciel</strong> pour l'Académie Française.</p>
+<p>Programme permettant de créer des applications sur mesure.</p>
+<ul class="simple">
+<li>Symfony</li>
+<li>Django</li>
+<li>Pyramid</li>
+<li>EZPublish</li>
+</ul></section>
             
           </div>
           <div class="presenter_notes">
@@ -1421,38 +1515,90 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              4/7
+              6/11
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Les distributions GNU/Linux</h1></header>
+            <header><h1>Wordpress</h1></header>
+            
+            
+            <section><h2>Caractéristiques</h2>
+<ul class="simple">
+<li>CMS orienté Blog, simple, ergonomique.</li>
+<li>Modules nombreux, mais beaucoup sont payants</li>
+<li>Thèmes à foison</li>
+</ul>
+<p>Très bien pour des sites associatifs, sites vitrines, blogs perso, ...</p>
+
+
+<h2>Fonctionalités</h2>
+<ul class="simple">
+<li>Création d'articles (datés) et de pages simples</li>
+<li>Workflow avec des états pour chaque éléments : brouillon, public, privé</li>
+<li>multi-utilisateurs, avec des droits différents</li>
+<li>thèmes personalisables</li>
+<li>édition des fichiers de thème en ligne</li>
+</ul></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="wordpress.rst">wordpress.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              7/11
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: wordpress.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Wordpress : Rédaction</h1></header>
             
             
             <section><ul class="simple">
-<li>Debian, <a class="reference external" href="http://www.debian.org/">http://www.debian.org/</a></li>
-<li>Slackware, <a class="reference external" href="http://www.slackware.com/">http://www.slackware.com/</a></li>
-<li>Ubuntu, <a class="reference external" href="http://www.ubuntu.com/">http://www.ubuntu.com/</a></li>
-<li>Dérivés d'Ubuntu :</li>
+<li>Interface publique</li>
+<li>Interface admin</li>
 </ul>
+
+<h2>Utilisateurs</h2>
 <ul class="simple">
-<li>Kubuntu, <a class="reference external" href="http://www.kubuntu.org/">http://www.kubuntu.org/</a></li>
-<li>Lubuntu, <a class="reference external" href="http://lubuntu.net/">http://lubuntu.net/</a></li>
-<li>Xubuntu, <a class="reference external" href="http://xubuntu.org/">http://xubuntu.org/</a></li>
+<li>Se connecter avec zoneur</li>
+<li>Créer les utilisateurs pour chacun</li>
 </ul>
+
+
+<h2>Articles et page</h2>
 <ul class="simple">
-<li>Fedora, <a class="reference external" href="https://fedoraproject.org/">https://fedoraproject.org/</a></li>
-<li>Arch Linux, <a class="reference external" href="https://www.archlinux.org/">https://www.archlinux.org/</a></li>
+<li>Créer un article</li>
+<li>Créer une page</li>
+</ul>
+<p>Publier vos contenus (ou pas)</p>
+<ul class="simple">
+<li>Réorganiser les pages (sous-menus possibles)</li>
 </ul></section>
             
           </div>
@@ -1465,81 +1611,35 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              5/7
+              8/11
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: presentation-logiciels-libres.rst -->
+      <!-- slide source: wordpress.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Le Libre c'est aussi ...</h1></header>
+            <header><h1>Wordpress : Rédaction, Modération</h1></header>
             
             
-            <section><h2>Les savoirs communs</h2>
+            <section><h2>Medias</h2>
 <ul class="simple">
-<li>Wikimedia commons, wikipedia</li>
-<li>l'OpenData</li>
+<li>Insérer une photo depuis un article</li>
+<li>Upload d'une photo</li>
 </ul>
 
 
-<h2>La création libre</h2>
+<h2>Commentaires</h2>
 <ul class="simple">
-<li>les Creative Commons</li>
-<li>le Domaine Public</li>
-</ul>
-
-
-<h2>Les standars ouverts</h2>
-<p>Permettant l'<strong>interopérabilité</strong>, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.</p></section>
-            
-          </div>
-          <div class="presenter_notes">
-            <header><h1>Presenter Notes</h1></header>
-            <section>
-            
-            </section>
-          </div>
-          <footer>
-            
-            <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
-            </aside>
-            
-            <aside class="page_number">
-              6/7
-            </aside>
-          </footer>
-        </div>
-      </div>
-      
-      <!-- slide source: presentation-logiciels-libres.rst -->
-      <div class="slide-wrapper">
-        <div class="slide">
-          <div class="inner">
-            
-            <header><h1>Le Libre c'est encore ...</h1></header>
-            
-            
-            <section><h2>Le matériel Libre</h2>
-<ul class="simple">
-<li>OpenHardware</li>
-<li>mouvements des fablabs</li>
-</ul>
-
-
-<h2>Les réseaux ouverts</h2>
-<ul class="simple">
-<li>La neutralité du Net</li>
-<li>refuser la censure</li>
-<li>mais nous pouvons être jugé à posteriori</li>
+<li>Commentez</li>
+<li>Modérez les commentaires</li>
 </ul></section>
             
           </div>
@@ -1552,11 +1652,76 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+              Source: <a href="wordpress.rst">wordpress.rst</a>
             </aside>
             
             <aside class="page_number">
-              7/7
+              9/11
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: wordpress.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Wordpress : Administration</h1></header>
+            
+            
+            <section><h2>Paramètres</h2>
+<ul class="simple">
+<li>Les menus</li>
+</ul>
+
+
+<h2>Thèmes</h2>
+<p>Changez le thème</p></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="wordpress.rst">wordpress.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              10/11
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: wordpress.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Et voilà</h1></header>
+            
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="wordpress.rst">wordpress.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              11/11
             </aside>
           </footer>
         </div>
@@ -1571,44 +1736,68 @@ aside {
       <caption>Table of Contents</caption>
       
       <tr id="toc-row-1">
-        <th><a href="#slide1">Un Logiciel Libre, c'est quoi ?</a></th>
+        <th><a href="#slide1">Wordpress</a></th>
         <td><a href="#slide1">1</a></td>
       </tr>
       
       
       <tr id="toc-row-2">
-        <th><a href="#slide2">Quelques Logiciels Libres</a></th>
+        <th><a href="#slide2">Un site internet</a></th>
         <td><a href="#slide2">2</a></td>
       </tr>
       
       
       <tr id="toc-row-3">
-        <th><a href="#slide3">Passer à GNU/Linux</a></th>
+        <th><a href="#slide3">Les languages du Web : HTML</a></th>
         <td><a href="#slide3">3</a></td>
       </tr>
       
       
       <tr id="toc-row-4">
-        <th><a href="#slide4">Question de vocabulaire</a></th>
+        <th><a href="#slide4">Les languages du Web : CSS</a></th>
         <td><a href="#slide4">4</a></td>
       </tr>
       
       
       <tr id="toc-row-5">
-        <th><a href="#slide5">Les distributions GNU/Linux</a></th>
+        <th><a href="#slide5">Les languages du Web : programmation</a></th>
         <td><a href="#slide5">5</a></td>
       </tr>
       
       
       <tr id="toc-row-6">
-        <th><a href="#slide6">Le Libre c'est aussi ...</a></th>
+        <th><a href="#slide6">Les outils du Web</a></th>
         <td><a href="#slide6">6</a></td>
       </tr>
       
       
       <tr id="toc-row-7">
-        <th><a href="#slide7">Le Libre c'est encore ...</a></th>
+        <th><a href="#slide7">Wordpress</a></th>
         <td><a href="#slide7">7</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-8">
+        <th><a href="#slide8">Wordpress : Rédaction</a></th>
+        <td><a href="#slide8">8</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-9">
+        <th><a href="#slide9">Wordpress : Rédaction, Modération</a></th>
+        <td><a href="#slide9">9</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-10">
+        <th><a href="#slide10">Wordpress : Administration</a></th>
+        <td><a href="#slide10">10</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-11">
+        <th><a href="#slide11">Et voilà</a></th>
+        <td><a href="#slide11">11</a></td>
       </tr>
       
       
