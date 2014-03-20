@@ -56,6 +56,23 @@ Quelques définitions
 
 ----
 
+Les distributions GNU/Linux
+============================
+
+* Debian, http://www.debian.org/
+* Slackware, http://www.slackware.com/
+* Ubuntu, http://www.ubuntu.com/
+* Dérivés d'Ubuntu :
+
+- Kubuntu, http://www.kubuntu.org/
+- Lubuntu, http://lubuntu.net/
+- Xubuntu, http://xubuntu.org/
+
+* Fedora, https://fedoraproject.org/
+* Arch Linux, https://www.archlinux.org/
+
+----
+
 Le Libre c'est aussi ...
 =========================
 
