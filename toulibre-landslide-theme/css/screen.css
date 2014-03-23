@@ -283,8 +283,16 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
   margin: 0;
 }
 
+header h1 {
+  color: #FFAD08;
+}
+
 header h2:first-child {
   margin-top: 0;
+}
+
+section h2 {
+  color: #E4401F;
 }
 
 section, .slide header:only-child h1 {
@@ -368,6 +376,10 @@ li li:before {
   font-size: 18px;
 }
 
+li p {
+    margin: 0;
+}
+
 .slide header:only-child h1 {
   line-height: 180%;
   text-align: center;
@@ -378,6 +390,8 @@ li li:before {
   font-size: 50px;
   margin-top:100px;
   margin-bottom:100px;
+  color: #FFAD08;
+  background-color: #000000;
 }
 
 .sidebar {
