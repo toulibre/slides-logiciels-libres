@@ -5,7 +5,8 @@ Les présentations proposées par Toulibre.
 
 * [L'association Toulibre](http://toulibre.github.io/slides-logiciels-libres/toulibre.html "Toulibre")
 * [Le Logiciel Libre](http://toulibre.github.io/slides-logiciels-libres/presentation-logiciels-libres.html "Présentations sur le Logiciel Libre")
-* [Découverte de Wordpress](wordpress.html "Découverte de Wordpress")
+* [Découverte de Wordpress](http://toulibre.github.io/slides-logiciels-libres/wordpress.html "Découverte de Wordpress")
+* [Découverte de Gimp](http://toulibre.github.io/slides-logiciels-libres/gimp.html "Découverte de Gimp")
 
 ## Comment ça marche
 
