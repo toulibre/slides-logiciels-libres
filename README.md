@@ -3,8 +3,9 @@ Présentations sur le Logiciel Libre
 
 Les présentations proposées par Toulibre.
 
-* [Présentation de Toulibre](http://toulibre.github.io/slides-logiciels-libres/toulibre.html "Toulibre")
-* [Présentation générale sur le Logiciel Libre](http://toulibre.github.io/slides-logiciels-libres/presentation-logiciels-libres.html "Présentations sur le Logiciel Libre")
+* [L'association Toulibre](http://toulibre.github.io/slides-logiciels-libres/toulibre.html "Toulibre")
+* [Le Logiciel Libre](http://toulibre.github.io/slides-logiciels-libres/presentation-logiciels-libres.html "Présentations sur le Logiciel Libre")
+* [Découverte de Wordpress](wordpress.html "Découverte de Wordpress")
 
 ## Comment ça marche
 
