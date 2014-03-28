@@ -315,6 +315,8 @@ Cette présentation
 Creative Commons By 3.0
     http://creativecommons.org/licenses/by/3.0/fr/
 
+`Tous les fichiers photo et .xcf <http://toulibre.org/pub/2014-03-27-mediatheque-tournefeuille/gimp/>`_
+
 Photos
 ------
 
