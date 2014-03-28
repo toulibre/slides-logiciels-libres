@@ -6,6 +6,17 @@ Médiathèque de Tournefeuille
 
 Jeudi 27 Mars 2014
 
+--
+
+Emmanuelle Helly
+
+Toulibre
+
+--
+
+Présentation CC-By-SA 3.0
+
+
 .fx: first-slide
 
 ----
