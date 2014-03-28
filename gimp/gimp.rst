@@ -161,7 +161,7 @@ Méthode 2
 
 ----
 
-.. image:: clair-de-terre-300.png
+.. image:: clair-de-terre-300.jpg
 
 .fx: inverse
 
@@ -298,6 +298,12 @@ Fête du libre à la Médiathèque de Tournefeuille
 Crédits
 =======
 
+Cette présentation
+------------------
+
+Creative Commons By 3.0
+    http://creativecommons.org/licenses/by/3.0/fr/
+
 Photos
 ------
 
@@ -309,3 +315,4 @@ Photos
    https://www.flickr.com/photos/gpaumier/12269354843/
 * *Slide 12, 13, 15* : Breton Sunset, *Julien Ortet*, **CC-By-SA**
    http://www.flickr.com/photos/julien_ortet/9644009345/
+
