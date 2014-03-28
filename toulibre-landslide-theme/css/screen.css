@@ -493,6 +493,31 @@ aside {
     font-size: 90%;
 }
 
+/* Styles *
+ * ------ */
+
+/* first-slide */
+div.slide.first-slide {
+    background-color: #000000;
+}
+div.slide.first-slide header {
+    text-align: center;
+    padding: 60px 30px;
+}
+div.slide.first-slide section {
+    margin-top: 190px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+div.slide.first-slide p {
+    text-align: center;
+}
+
+/* inverse */
+div.slide.inverse {
+    background-color: #000000;
+}
+
 /* Pygments default theme */
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
