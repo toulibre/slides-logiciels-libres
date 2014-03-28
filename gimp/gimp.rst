@@ -14,7 +14,7 @@ Toulibre
 
 --
 
-Présentation CC-By-SA 3.0
+Présentation CC-By 3.0
 
 
 .fx: first-slide
