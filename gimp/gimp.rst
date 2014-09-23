@@ -2,9 +2,9 @@
 Retouche et montage de photos avec Gimp
 ========================================
 
-Médiathèque de Tournefeuille
+Forum Numérique des Seniors
 
-Jeudi 27 Mars 2014
+Mercredi 24 Septembre 2014
 
 --
 
@@ -112,7 +112,7 @@ GIMP permet d'empiler des images dans un même fichier : **les calques**
 TP : Un clair de Terre
 -------------------------
 
-* Ouvrir *US_Congress-Washington_2012--Guillaume-Paumier--CC-By-3.0.jpg* en tant que calque
+* Ouvrir *capitole-toulouse--benh-lieu-song--cc-by-sa-30.jpg* en tant que calque
    *fichier > ouvrir en tant que calque*
 * Mettre le calque choisi sous la planète
    *Fenêtre des calques, sélectionner le calque, déplacer*
@@ -128,7 +128,7 @@ Pour recadrer : *Outil Recadrer*, sélection puis clic au milieu
 
 ----
 
-.. image:: clair-de-terre-cropped.jpg
+.. image:: clair-de-terre-cropped-toulouse.jpg
 
 .fx: inverse
 
@@ -172,7 +172,7 @@ Méthode 2
 
 ----
 
-.. image:: clair-de-terre-300.jpg
+.. image:: clair-de-terre-capitole-toulouse.jpg
 
 .fx: inverse
 
@@ -292,17 +292,30 @@ Questions ?
 Événements à venir
 ===================
 
-Fête du libre à la Médiathèque de Tournefeuille
--------------------------------------------------
+Capitole du Libre 15-16 Novembre 2014
+---------------------------------------
 
-* vendredi 28 : wikipedia
-* samedi 29 : imprimantes 3D et Blender
+Conférences, ateliers, stands, animations, install party
 
-Événements Toulibre
--------------------
+Rencontre et aide à l'installation de Linux
+--------------------------------------------
 
-* 5 avril : atelier Gimp au CC de Bellegarde à Toulouse
-* 12 avril : install party à l'Utopia Tournefeuille
+De 19h30 à 22h30 au **CC de Bellegarde**
+
+    * 24 Septembre
+    * 8 Octobre
+    * 15 Octobre
+
+Install party de 14h à 18h à l'**Utopia Tournefeuille**
+
+    * 18 Octobre
+
+Ateliers
+---------
+
+De 10h à 17h au **CC de Bellegarde**
+
+Dates et sujets à venir : KDE, Blender, Gimp, Inkscape, LaTeX, Arduino, MAO
 
 ----
 
@@ -324,8 +337,8 @@ Photos
    http://www.flickr.com/photos/eriatarka31/7624636092
 * *Slide 6, 8, 11* : The blue Marble, *NASA*, **Public Domain** (in Wikimedia Commons)
    http://commons.wikimedia.org/wiki/File:The_Blue_Marble.jpg
-* *Slide 7, 8 et 11* : US Congress Washinton, *Guillaume Paumier*, **CC-By**
-   https://www.flickr.com/photos/gpaumier/12269354843/
+* *Slide 7, 8 et 11* : Place du Capitole de Toulouse, *Benh Lieu Song*, **CC-By-SA**
+   https://www.flickr.com/photos/blieusong/6986608500/in/set-72157629942158013
 * *Slide 12, 13, 15* : Breton Sunset, *Julien Ortet*, **CC-By-SA**
    http://www.flickr.com/photos/julien_ortet/9644009345/
 
