@@ -85,6 +85,71 @@ Enregistrer le fichier (format natif : .xcf)
 
 ----
 
+Améliorer
+==========
+
+On peut amliorer la netteté, la luminosité d'une photo.
+
+* Ouvrir la photo `enfants-console-retro.jpg`
+* *Couleur > Niveaux*
+* Cliquer sur *auto*
+
+----
+
+.. image:: enfants-console-retro-niveaux.jpg
+
+.fx: inverse
+
+----
+
+Jouer sur la couleur, méthode 1
+===============================
+
+Gimp permet de retoucher la couleur des images
+
+TP : Sunset "From Mars"
+-------------------------------------
+
+Image sunset-julien-ortet-CC-By-SA.jpg
+
+Teinte, saturation, luminosité
+-------------------------------------
+
+* Ouvrir les réglages *Couleurs > Teinte et saturation*
+* Modifier la teinte (puis jouer avec les autres éléments)
+
+Pour obtenir une photo en N&B, il suffit de baisser la saturation au maximum
+
+----
+
+.. image:: sunset-julien-ortet-CC-By-SA-methode1.jpg
+
+.fx: inverse
+
+----
+
+Jouer sur la couleur, méthode 2
+===============================
+
+Masque de calque, mode de superposition
+----------------------------------------
+
+Permet de n'appliquer que sur une partie de l'image
+
+* Modifier la couleur de premier plan
+* Sélectionner toute l'image (ctrl+A) puis réduire la sélection de 80px
+* Ajouter un calque, à remplir avec la couleur de PP
+* Ajouter un masque de calque (clic droit sur le calque), choisir *Sélection*
+* Appliquer le mode de superposition *Lumière douce*
+
+----
+
+.. image:: sunset-julien-ortet-CC-By-SA-methode2.jpg
+
+.fx: inverse
+
+----
+
 Sélectionner
 ============
 
@@ -173,54 +238,6 @@ Méthode 2
 ----
 
 .. image:: clair-de-terre-capitole-toulouse.jpg
-
-.fx: inverse
-
-----
-
-Jouer sur la couleur, méthode 1
-===============================
-
-Gimp permet de retoucher la couleur des images
-
-TP : Sunset "From Mars"
--------------------------------------
-
-Image sunset-julien-ortet-CC-By-SA.jpg
-
-Teinte, saturation, luminosité
--------------------------------------
-
-* Ouvrir les réglages *Couleurs > Teinte et saturation*
-* Modifier la teinte (puis jouer avec les autres éléments)
-
-Pour obtenir une photo en N&B, il suffit de baisser la saturation au maximum
-
-----
-
-.. image:: sunset-julien-ortet-CC-By-SA-methode1.jpg
-
-.fx: inverse
-
-----
-
-Jouer sur la couleur, méthode 2
-===============================
-
-Masque de calque, mode de superposition
-----------------------------------------
-
-Permet de n'appliquer que sur une partie de l'image
-
-* Modifier la couleur de premier plan
-* Sélectionner toute l'image (ctrl+A) puis réduire la sélection de 80px
-* Ajouter un calque, à remplir avec la couleur de PP
-* Ajouter un masque de calque (clic droit sur le calque), choisir *Sélection*
-* Appliquer le mode de superposition *Lumière douce*
-
-----
-
-.. image:: sunset-julien-ortet-CC-By-SA-methode2.jpg
 
 .fx: inverse
 
@@ -328,17 +345,16 @@ Cette présentation
 Creative Commons By 3.0
     http://creativecommons.org/licenses/by/3.0/fr/
 
-`Tous les fichiers photo et .xcf <http://toulibre.org/pub/2014-03-27-mediatheque-tournefeuille/gimp/>`_
+`Tous les fichiers photo et .xcf <http://toulibre.org/pub/2014-09-24-forum-numerique-seniors/gimp/>`_
 
 Photos
 ------
 
 * *Slide 3, 4, 17* : Toulouse Plages, *Gregory Tonon*, **CC-By-SA**
    http://www.flickr.com/photos/eriatarka31/7624636092
-* *Slide 6, 8, 11* : The blue Marble, *NASA*, **Public Domain** (in Wikimedia Commons)
-   http://commons.wikimedia.org/wiki/File:The_Blue_Marble.jpg
-* *Slide 7, 8 et 11* : Place du Capitole de Toulouse, *Benh Lieu Song*, **CC-By-SA**
-   https://www.flickr.com/photos/blieusong/6986608500/in/set-72157629942158013
-* *Slide 12, 13, 15* : Breton Sunset, *Julien Ortet*, **CC-By-SA**
+* *Slide 9 et 11* : Breton Sunset, *Julien Ortet*, **CC-By-SA**
    http://www.flickr.com/photos/julien_ortet/9644009345/
-
+* *Slide 14 et 17* : The blue Marble, *NASA*, **Public Domain** (in Wikimedia Commons)
+   http://commons.wikimedia.org/wiki/File:The_Blue_Marble.jpg
+* *Slide 14 et 17* : Place du Capitole de Toulouse, *Benh Lieu Song*, **CC-By-SA**
+   https://www.flickr.com/photos/blieusong/6986608500/in/set-72157629942158013
