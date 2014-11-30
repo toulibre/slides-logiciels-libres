@@ -1334,14 +1334,6 @@ div.slide.inverse {
 <li><a href="http://toulibre.github.io/slides-logiciels-libres/wordpress.html" title="Découverte de Wordpress">Découverte de Wordpress</a></li>
 <li><a href="http://toulibre.github.io/slides-logiciels-libres/gimp-2014-0327-mediatheque-tournefeuille.html" title="Découverte de Gimp">Découverte de Gimp</a></li>
 </ul>
-<h2>Comment ça marche</h2>
-<p>Ces présentations utilisent Landslide. Créez un virtualenv, puis installer landslide :</p>
-<pre><code>mkvirtualenv landslide
-clone https://github.com/toulibre/slides-logiciels-libres.git
-cd slides-logiciels-libres
-pip install requirements.txt
-</code></pre>
-<p>Modifiez les fichiers rst (vous pouvez également utiliser md ou textile).</p>
 <h2><a href="https://github.com/toulibre/slides-logiciels-libres/">Forkez</a> !!</h2>
 <p>N'hésitez pas à reprendre pour vous ces présentations, à réutiliser le thème Toulibre.</p></section>
             
@@ -1359,7 +1351,51 @@ pip install requirements.txt
             </aside>
             
             <aside class="page_number">
-              1/1
+              1/2
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: README.md -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h2>Comment ça marche</h2></header>
+            
+            
+            <section><p>Ces présentations utilisent Landslide. Créez un virtualenv, puis installer landslide :</p>
+<pre><code>mkvirtualenv landslide
+clone https://github.com/toulibre/slides-logiciels-libres.git
+cd slides-logiciels-libres
+pip install requirements.txt
+</code></pre>
+<p>Modifiez les fichiers rst (vous pouvez également utiliser md ou textile). Configurer les <code>.cfg</code> pour exporter la présentation dans le dossier <code>www/</code>.
+Puis lancez la commande <code>landslide</code>:</p>
+<pre><code>cd &lt;dossier de travail&gt; # si besoin
+landslide gimp.cfg
+</code></pre>
+<h2>Pour ce dépôt</h2>
+<p>Les présentations sont visibles sur [Github pages de ce dépôt](http://toulibre.github.io/slides-logiciels-libres/. Utilisez la commande <code>ghp-import</code></p>
+<pre><code>ghp-import -p www/
+</code></pre></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="README.md">README.md</a>
+            </aside>
+            
+            <aside class="page_number">
+              2/2
             </aside>
           </footer>
         </div>
@@ -1377,6 +1413,13 @@ pip install requirements.txt
         <th><a href="#slide1">Présentations sur le Logiciel Libre</a></th>
         <td><a href="#slide1">1</a></td>
       </tr>
+      
+        
+        <tr id="toc-row-2" class="sub">
+          <th><a href="#slide2">Comment ça marche</a></th>
+          <td><a href="#slide2">2</a></td>
+        </tr>
+        
       
       
     </table>
