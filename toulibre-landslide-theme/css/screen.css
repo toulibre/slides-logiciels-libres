@@ -509,6 +509,9 @@ div.slide.first-slide section {
     font-size: 20px;
     color: #FFFFFF;
 }
+div.slide.first-slide h1 {
+    text-align: center;
+}
 div.slide.first-slide p {
     text-align: center;
 }
