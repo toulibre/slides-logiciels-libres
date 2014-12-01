@@ -25,7 +25,7 @@ Présentation CC-By 3.0
 ----
 
 Vous connaissez des Logiciels Libres
-====================================
+------------------------------------
 
 * Naviguer sur Internet avec **Firefox**
 * Suite bureautique **LibreOffice**
@@ -43,7 +43,7 @@ http://framasoft.net/
 ----
 
 Quelques dates clés
-================================
+---------------------
 
 1. 1983 : **Richard Stallmann** crée la GNU General Public License (GNU GPL) et fonde la FSF (Free Software Foundation)
 2. 1990 : **Linus Torwald** démarre le développement de Linux (coeur du système) sous licence GNU GPL
@@ -51,7 +51,8 @@ Quelques dates clés
 ----
 
 Un Logiciel Libre, c'est quoi ?
-================================
+--------------------------------
+
 Un logiciel sous licence GNU GPL.
 D'autres licences existent par exemple la licence BSD (Berkeley Software Distribution).
 
@@ -63,18 +64,22 @@ Les 4 libertés
 * liberté 2 : d'étudier
 * liberté 3 : de modifier le logiciel et de redistribuer les versions modifiées
 
-Une déclinaison de « Liberté, Égalité, Fraternité »
+----
+
+« Liberté, Égalité, Fraternité »
+--------------------------------
 
 .. image:: img/1137px-Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg
-
-    class: right
+    :class: bg-img
 
 *« Eugène Delacroix - La liberté guidant le peuple »*
+
+.fx: inverse
 
 ----
 
 Nos libertés
-================
+----------------
 
 .. image:: img/comparatif-libre-proprio.jpg
     :width: 100%
@@ -85,7 +90,7 @@ Cela implique d'avoir accès au code source, mais n'est pas une condition suffis
 ----
 
 Le code source ?
-================
+----------------
 
 C'est ce qui est écrit par le développeur dans un langage de programmation::
 
@@ -95,17 +100,17 @@ C'est ce qui est écrit par le développeur dans un langage de programmation::
 ----
 
 D'autres logiciels libres
-=========================
+-------------------------
 
 Pour nos usages
----------------
+===============
 
 * Lire ses mails avec **Thunderbird**
-* Écouter de la musique avec **Audacious**
+* Écouter de la musique avec **
 * Lire des vidéos avec **VLC**
 
 Pour créer
-----------
+==========
 
 * **Gimp**, **Inkscape**, **Krita**, **myPaint** pour les arts graphiques
 * **Ardour**, **Audacity**, **Hydrogen** pour la musique
@@ -114,14 +119,19 @@ Pour créer
 ----
 
 Libérez votre ordinateur
-========================
+------------------------
 
-GNU/Linux, un système libre : 
+GNU/Linux, système d'exploitation libre
+=======================================
 
 * Les mêmes logiciels, et pleins d'autres
 * Installation et utilisation accessible à tous
 * Système sûr et fiable
 * Permet d'aller plus loin dans l'utilisation et l'apprentissage de l'informatique
+
+.. image:: img/gnus.png
+
+----
 
 plusieurs déclinaisons
 ----------------------
@@ -130,28 +140,31 @@ plusieurs déclinaisons
 
 vos logiciels libres préférés dans leur environnement naturel
 
-:Noyau: Coeur du système (Linux)
+:Noyau: Coeur de Linux
 :Distribution: Noyau + système de paquets + suite de logiciels
 
-----
-
 Les distributions GNU/Linux
-============================
+-----------------------------
 
-* Debian, http://www.debian.org/ (1993)
-* Slackware, http://www.slackware.com/ (1993)
-* Arch Linux, https://www.archlinux.org/ (2002)
-* Fedora, https://fedoraproject.org/ (2003)
-* Ubuntu, http://www.ubuntu.com/ (2004)
+* Debian, http://www.debian.org/
+* Ubuntu, http://www.ubuntu.com/
+* Fedora, https://fedoraproject.org/
+
+.. notes::
+
 * Dérivés d'Ubuntu :
-1. Kubuntu, http://www.kubuntu.org/ (2005)
-2. Xubuntu, http://xubuntu.org/ (2005)
-3. Lubuntu, http://lubuntu.net/ (2008)
+
+- Kubuntu, http://www.kubuntu.org/
+- Lubuntu, http://lubuntu.net/
+- Xubuntu, http://xubuntu.org/
+
+* Fedora, https://fedoraproject.org/
+* Arch Linux, https://www.archlinux.org/
 
 ----
 
 Des applications libres pour le Web
-====================================
+------------------------------------
 
 Sur le web aussi, des outils libres
 
@@ -162,31 +175,36 @@ Sur le web aussi, des outils libres
 ----
 
 Sur votre téléphone
-===================
+-------------------
 
-.. class:: test
+Android (2005)
+==============
 
-- Android (2005)
 - presque libre
 - premier téléphone (HTC Dream), octobre 2008
 
---
 
+Replicant (2010)
+================
 
-- Replicant (2010)
-- dérivé d'Android sans les composants propriétaires
+- dérivé d'Android 
+- sans les composants propriétaires
 
---
+----
 
+D'autres voies
+--------------
 
-- FirefoxOS (2011)
-- premier téléphone  (ZTE Open), juillet 2013
+FirefoxOS (2011)
+================
 
---
+- premier téléphone juillet 2013
 
+Ubuntu phone (2013)
+===================
 
-- Ubuntu phone (2013)
-- pas de téléphone disponible à ce jour, seulement annoncé
+- pas de téléphone disponible à ce jour
+- seulement annoncé
 
 .. figure:: img/mobile-firefoxos-photo-maurizio-pesce.jpg
     :class: bg-img bg-right
@@ -194,7 +212,7 @@ Sur votre téléphone
 ----
 
 Et ailleurs
-===================
+-------------
 
 * réseau
 * domotique
@@ -204,7 +222,7 @@ Et ailleurs
 ----
 
 « Il serait dommage de ne libérer que le logiciel »
-=====================================================
+-----------------------------------------------------
 
 * l'information
 * les savoirs
@@ -215,7 +233,7 @@ Et ailleurs
 ----
 
 Libérer l'information et les savoirs
-=====================================
+-------------------------------------
 
 OpenData
 --------
@@ -232,7 +250,7 @@ Wikimedia commons, wikipedia
 
 
 La création pour et par tous
-=================================
+---------------------------------
 
 * les licences Creative Commons
 * Les auteurs permettent aux utilisateurs plus d'usages que le droit d'auteur simple
@@ -241,14 +259,14 @@ La création pour et par tous
 ----
 
 Les standards ouverts
-======================
+----------------------
 
 Permettant l'**interopérabilité**, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.
 
 ----
 
 Le matériel Libre
-==================
+------------------
 
 * OpenHardware
 * Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**)
@@ -256,7 +274,7 @@ Le matériel Libre
 ----
 
 Les réseaux ouverts
-====================
+-------------------
 
 * La neutralité du Net
 * refuser la censure
