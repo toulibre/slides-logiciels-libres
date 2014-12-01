@@ -316,15 +316,24 @@ section img.align-center {
 }
 
 section img.align-right {
-  display: block;
   margin-left: auto;
   margin-right: 0;
+  float: right;
 }
 
 section img.align-left {
-  display: block;
   margin-right: auto;
   margin-left: 0;
+  float: left;
+}
+
+section img.bg-img {
+    position: absolute;
+    top: 89px;
+    height: 100%;
+}
+section img.bg-right {
+    left: 33%;
 }
 
 a {

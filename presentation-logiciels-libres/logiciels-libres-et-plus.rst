@@ -58,10 +58,27 @@ Les 4 libertés
 
 Une déclinaison de « Liberté, Égalité, Fraternité »
 
+.. image:: img/1137px-Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg
+
+    class: right
+
+*« Eugène Delacroix - La liberté guidant le peuple »*
+
+----
+
+Nos libertés
+================
+
+.. image:: img/comparatif-libre-proprio.jpg
+    :width: 100%
+
 Cela implique d'avoir accès au code source, mais n'est pas une condition suffisante.
 
+
+----
+
 Le code source ?
-----------------
+================
 
 C'est ce qui est écrit par le développeur dans un langage de programmation::
 
@@ -113,7 +130,6 @@ Les distributions GNU/Linux
 ============================
 
 * Debian, http://www.debian.org/
-* Slackware, http://www.slackware.com/
 * Ubuntu, http://www.ubuntu.com/
 * Dérivés d'Ubuntu :
 
@@ -125,7 +141,6 @@ Les distributions GNU/Linux
 * Arch Linux, https://www.archlinux.org/
 
 ----
-
 
 Des applications libres pour le Web
 ====================================
@@ -141,10 +156,15 @@ Sur le web aussi, des outils libres
 Sur votre téléphone
 ===================
 
+.. class:: test
+
 * Android ? presque ...
 * Replicant
 * FirefoxOS
 * Ubuntu phone
+
+.. figure:: img/mobile-firefoxos-photo-maurizio-pesce.jpg
+    :class: bg-img bg-right
 
 ----
 
