@@ -106,7 +106,7 @@ Pour nos usages
 ===============
 
 * Lire ses mails avec **Thunderbird**
-* Écouter de la musique avec **
+* Écouter de la musique avec **Audacious**
 * Lire des vidéos avec **VLC**
 
 Pour créer
@@ -140,23 +140,25 @@ plusieurs déclinaisons
 
 vos logiciels libres préférés dans leur environnement naturel
 
-:Noyau: Coeur de Linux
+:Noyau: Coeur du système (Linux)
 :Distribution: Noyau + système de paquets + suite de logiciels
 
 Les distributions GNU/Linux
 -----------------------------
 
-* Debian, http://www.debian.org/
-* Ubuntu, http://www.ubuntu.com/
-* Fedora, https://fedoraproject.org/
+* Debian, http://www.debian.org/ (1993)
+* Slackware, http://www.slackware.com/ (1993)
+* Arch Linux, https://www.archlinux.org/ (2002)
+* Fedora, https://fedoraproject.org/ (2003)
+* Ubuntu, http://www.ubuntu.com/ (2004)
 
 .. notes::
 
 * Dérivés d'Ubuntu :
 
-- Kubuntu, http://www.kubuntu.org/
-- Lubuntu, http://lubuntu.net/
-- Xubuntu, http://xubuntu.org/
+- Kubuntu, http://www.kubuntu.org/ (2005)
+- Xubuntu, http://xubuntu.org/ (2005)
+- Lubuntu, http://lubuntu.net/ (2008)
 
 * Fedora, https://fedoraproject.org/
 * Arch Linux, https://www.archlinux.org/
