@@ -160,9 +160,6 @@ Les distributions GNU/Linux
 - Xubuntu, http://xubuntu.org/ (2005)
 - Lubuntu, http://lubuntu.net/ (2008)
 
-* Fedora, https://fedoraproject.org/
-* Arch Linux, https://www.archlinux.org/
-
 ----
 
 Des applications libres pour le Web
@@ -194,8 +191,8 @@ Replicant (2010)
 
 ----
 
-D'autres alternatives
----------------------
+D'autres voies
+--------------
 
 FirefoxOS (2011)
 ================
