@@ -133,32 +133,44 @@ GNU/Linux, système d'exploitation libre
 
 ----
 
-plusieurs déclinaisons
+Vocabulaire
+-----------
+
+:Distribution Linux: Noyau + gestionnaire de paquets + environnement de bureau + suite de logiciels
+:Noyau Linux: Coeur de Linux
+:Gestionnaire de paquets: système qui permet d'installer ou désinstaller des logiciels sur l'ordinateur
+:Environnement de bureau: système qui permet de gérer les fenêtres, les raccourcis, les préférences, ...
+
+----
+
+Plusieurs déclinaisons
 ----------------------
 
-.. notes::
-
-vos logiciels libres préférés dans leur environnement naturel
-
-:Noyau: Coeur du système (Linux)
-:Distribution: Noyau + système de paquets + suite de logiciels
-
 Les distributions GNU/Linux
------------------------------
+===========================
 
-* Debian, http://www.debian.org/ (1993)
-* Slackware, http://www.slackware.com/ (1993)
-* Arch Linux, https://www.archlinux.org/ (2002)
-* Fedora, https://fedoraproject.org/ (2003)
-* Ubuntu, http://www.ubuntu.com/ (2004)
+* Debian, http://www.debian.org/
+* Ubuntu, http://www.ubuntu.com/
+* Fedora, https://fedoraproject.org/
 
-.. notes::
+Les environnements de bureau
+============================
+
+* Unity
+* Gnome
+* KDE
+* Maté
+
+Presenter notes
+----------------
 
 * Dérivés d'Ubuntu :
 
-- Kubuntu, http://www.kubuntu.org/ (2005)
-- Xubuntu, http://xubuntu.org/ (2005)
-- Lubuntu, http://lubuntu.net/ (2008)
+- Kubuntu, http://www.kubuntu.org/
+- Lubuntu, http://lubuntu.net/
+- Xubuntu, http://xubuntu.org/
+
+* Arch Linux, https://www.archlinux.org/
 
 ----
 
@@ -191,8 +203,8 @@ Replicant (2010)
 
 ----
 
-D'autres voies
---------------
+D'autres alternatives
+---------------------
 
 FirefoxOS (2011)
 ================
