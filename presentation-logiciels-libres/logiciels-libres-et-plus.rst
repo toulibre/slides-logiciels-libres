@@ -42,11 +42,18 @@ http://framasoft.net/
 
 ----
 
-Un Logiciel Libre, c'est quoi ?
+Quelques dates clés
 ================================
 
-1983 : **Richard Stallmann** crée la GNU Public License et fonde la FSF (Free Software Foundation)
-D'autres licences existent.
+1. 1983 : **Richard Stallmann** crée la GNU General Public License (GNU GPL) et fonde la FSF (Free Software Foundation)
+2. 1990 : **Linus Torwald** démarre le développement de Linux (coeur du système) sous licence GNU GPL
+
+----
+
+Un Logiciel Libre, c'est quoi ?
+================================
+Un logiciel sous licence GNU GPL.
+D'autres licences existent par exemple la licence BSD (Berkeley Software Distribution).
 
 Les 4 libertés
 --------------
@@ -94,7 +101,7 @@ Pour nos usages
 ---------------
 
 * Lire ses mails avec **Thunderbird**
-* Écouter de la musique avec **
+* Écouter de la musique avec **Audacious**
 * Lire des vidéos avec **VLC**
 
 Pour créer
@@ -123,22 +130,23 @@ plusieurs déclinaisons
 
 vos logiciels libres préférés dans leur environnement naturel
 
-:Noyau: Coeur de Linux
+:Noyau: Coeur du système (Linux)
 :Distribution: Noyau + système de paquets + suite de logiciels
+
+----
 
 Les distributions GNU/Linux
 ============================
 
-* Debian, http://www.debian.org/
-* Ubuntu, http://www.ubuntu.com/
+* Debian, http://www.debian.org/ (1993)
+* Slackware, http://www.slackware.com/ (1993)
+* Arch Linux, https://www.archlinux.org/ (2002)
+* Fedora, https://fedoraproject.org/ (2003)
+* Ubuntu, http://www.ubuntu.com/ (2004)
 * Dérivés d'Ubuntu :
-
-- Kubuntu, http://www.kubuntu.org/
-- Lubuntu, http://lubuntu.net/
-- Xubuntu, http://xubuntu.org/
-
-* Fedora, https://fedoraproject.org/
-* Arch Linux, https://www.archlinux.org/
+1. Kubuntu, http://www.kubuntu.org/ (2005)
+2. Xubuntu, http://xubuntu.org/ (2005)
+3. Lubuntu, http://lubuntu.net/ (2008)
 
 ----
 
@@ -158,10 +166,27 @@ Sur votre téléphone
 
 .. class:: test
 
-* Android ? presque ...
-* Replicant
-* FirefoxOS
-* Ubuntu phone
+- Android (2005)
+- presque libre
+- premier téléphone (HTC Dream), octobre 2008
+
+--
+
+
+- Replicant (2010)
+- dérivé d'Android sans les composants propriétaires
+
+--
+
+
+- FirefoxOS (2011)
+- premier téléphone  (ZTE Open), juillet 2013
+
+--
+
+
+- Ubuntu phone (2013)
+- pas de téléphone disponible à ce jour, seulement annoncé
 
 .. figure:: img/mobile-firefoxos-photo-maurizio-pesce.jpg
     :class: bg-img bg-right
@@ -171,6 +196,7 @@ Sur votre téléphone
 Et ailleurs
 ===================
 
+* réseau
 * domotique
 * objets connectés
 * robots
@@ -225,7 +251,7 @@ Le matériel Libre
 ==================
 
 * OpenHardware
-* mouvements des fablabs
+* Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**)
 
 ----
 

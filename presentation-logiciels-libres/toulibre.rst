@@ -38,3 +38,18 @@ Install parties
 
 * Aide à l'installation
 * Découverte de GNU/Linux
+
+----
+
+À Toulibre : Découvrir, Partager, Echanger
+=============================================
+
+Evénement annuel
+----------------
+
+Un week-end en novembre, le Capitole du Libre à l'INP-ENSEEIHT
+
+* Conférences, ateliers autour du libre
+* Stands associatifs et communautaires
+* Evévements hébergés
+* Entrée libre et gratuite
