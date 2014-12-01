@@ -192,8 +192,8 @@ Replicant (2010)
 
 ----
 
-D'autres voies
---------------
+D'autres alternatives
+---------------------
 
 FirefoxOS (2011)
 ================
