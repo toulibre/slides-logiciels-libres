@@ -25,7 +25,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Qui-sommes nous ?</title>
+    <title>Présentations sur le Logiciel Libre</title>
     <!-- Styles -->
     
     <style type="text/css" media="print">
@@ -408,8 +408,16 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
   margin: 0;
 }
 
+header h1 {
+  color: #FFAD08;
+}
+
 header h2:first-child {
   margin-top: 0;
+}
+
+section h2 {
+  color: #E4401F;
 }
 
 section, .slide header:only-child h1 {
@@ -493,6 +501,10 @@ li li:before {
   font-size: 18px;
 }
 
+li p {
+    margin: 0;
+}
+
 .slide header:only-child h1 {
   line-height: 180%;
   text-align: center;
@@ -503,6 +515,8 @@ li li:before {
   font-size: 50px;
   margin-top:100px;
   margin-bottom:100px;
+  color: #FFAD08;
+  background-color: #000000;
 }
 
 .sidebar {
@@ -602,6 +616,34 @@ aside {
 }
   div.slide p.notes {
     font-size: 90%;
+}
+
+/* Styles *
+ * ------ */
+
+/* first-slide */
+div.slide.first-slide {
+    background-color: #000000;
+}
+div.slide.first-slide header {
+    text-align: center;
+    padding: 60px 30px;
+}
+div.slide.first-slide section {
+    margin-top: 190px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+div.slide.first-slide h1 {
+    text-align: center;
+}
+div.slide.first-slide p {
+    text-align: center;
+}
+
+/* inverse */
+div.slide.inverse {
+    background-color: #000000;
 }
 
 /* Pygments default theme */
@@ -1277,21 +1319,23 @@ aside {
     </div>
     <div class="slides">
       
-      <!-- slide source: toulibre.rst -->
+      <!-- slide source: README.md -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Qui-sommes nous ?</h1></header>
+            <header><h1>Présentations sur le Logiciel Libre</h1></header>
             
             
-            <section><p><strong>Toulibre</strong>, association locale de promotion du Logiciel Libre, créée en 2007, composée uniquement de bénévoles.</p>
-<ul class="simple">
-<li>Promotion et démocratisation du Logiciel Libre et des oeuvres libres</li>
-<li>Soutien aux communautés du Libre</li>
+            <section><p>Les présentations proposées par Toulibre.</p>
+<ul>
+<li><a href="http://toulibre.github.io/slides-logiciels-libres/toulibre.html" title="Toulibre">L'association Toulibre</a></li>
+<li><a href="http://toulibre.github.io/slides-logiciels-libres/logiciels-libres-et-plus-2014-1205-mediatheque-blagnac.html" title="Présentations sur le Logiciel Libre">Le Logiciel Libre</a></li>
+<li><a href="http://toulibre.github.io/slides-logiciels-libres/wordpress.html" title="Découverte de Wordpress">Découverte de Wordpress</a></li>
+<li><a href="http://toulibre.github.io/slides-logiciels-libres/gimp-2014-0327-mediatheque-tournefeuille.html" title="Découverte de Gimp">Découverte de Gimp</a></li>
 </ul>
-<p>Organisation de rencontres, d'ateliers, et autres événements autour du Libre.</p>
-<p>Présence sur diverses manifestations pour y promouvoir le Libre.</p></section>
+<h2><a href="https://github.com/toulibre/slides-logiciels-libres/">Forkez</a> !!</h2>
+<p>N'hésitez pas à reprendre pour vous ces présentations, à réutiliser le thème Toulibre.</p></section>
             
           </div>
           <div class="presenter_notes">
@@ -1303,7 +1347,7 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="toulibre.rst">toulibre.rst</a>
+              Source: <a href="README.md">README.md</a>
             </aside>
             
             <aside class="page_number">
@@ -1313,36 +1357,29 @@ aside {
         </div>
       </div>
       
-      <!-- slide source: toulibre.rst -->
+      <!-- slide source: README.md -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>À Toulibre : Découvrir, Utiliser, Contribuer</h1></header>
+            <header><h2>Comment ça marche</h2></header>
             
             
-            <section><h2>Rencontres du mercredi</h2>
-<p>Un mercredi sur deux de 19h à 23h au Centre Culturel de Bellegarde</p>
-<ul class="simple">
-<li>Aide à l'installation / utilisation</li>
-<li>Présentation sur un sujet lié au libre</li>
-</ul>
-
-
-<h2>Ateliers du samedi</h2>
-<p>Un samedi par mois en journée à Bellegarde</p>
-<ul class="simple">
-<li>Initiation  à un logiciel ou un langage (LibreOffice, Python, Blender)</li>
-<li>Soutien à des communautés du Libre (KDE, Blender)</li>
-</ul>
-
-
-<h2>Install parties</h2>
-<p>À l'Utopia Tournefeuille ou dans d'autres endroits.</p>
-<ul class="simple">
-<li>Aide à l'installation</li>
-<li>Découverte de GNU/Linux</li>
-</ul></section>
+            <section><p>Ces présentations utilisent Landslide. Créez un virtualenv, puis installer landslide :</p>
+<pre><code>mkvirtualenv landslide
+clone https://github.com/toulibre/slides-logiciels-libres.git
+cd slides-logiciels-libres
+pip install requirements.txt
+</code></pre>
+<p>Modifiez les fichiers rst (vous pouvez également utiliser md ou textile). Configurer les <code>.cfg</code> pour exporter la présentation dans le dossier <code>www/</code>.
+Puis lancez la commande <code>landslide</code>:</p>
+<pre><code>cd &lt;dossier de travail&gt; # si besoin
+landslide gimp.cfg
+</code></pre>
+<h2>Pour ce dépôt</h2>
+<p>Les présentations sont visibles sur [Github pages de ce dépôt](http://toulibre.github.io/slides-logiciels-libres/. Utilisez la commande <code>ghp-import</code></p>
+<pre><code>ghp-import -p www/
+</code></pre></section>
             
           </div>
           <div class="presenter_notes">
@@ -1354,7 +1391,7 @@ aside {
           <footer>
             
             <aside class="source">
-              Source: <a href="toulibre.rst">toulibre.rst</a>
+              Source: <a href="README.md">README.md</a>
             </aside>
             
             <aside class="page_number">
@@ -1373,15 +1410,16 @@ aside {
       <caption>Table of Contents</caption>
       
       <tr id="toc-row-1">
-        <th><a href="#slide1">Qui-sommes nous ?</a></th>
+        <th><a href="#slide1">Présentations sur le Logiciel Libre</a></th>
         <td><a href="#slide1">1</a></td>
       </tr>
       
-      
-      <tr id="toc-row-2">
-        <th><a href="#slide2">À Toulibre : Découvrir, Utiliser, Contribuer</a></th>
-        <td><a href="#slide2">2</a></td>
-      </tr>
+        
+        <tr id="toc-row-2" class="sub">
+          <th><a href="#slide2">Comment ça marche</a></th>
+          <td><a href="#slide2">2</a></td>
+        </tr>
+        
       
       
     </table>
