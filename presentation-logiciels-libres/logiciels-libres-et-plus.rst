@@ -53,7 +53,7 @@ Quelques dates clés
 1. 1983 : **Richard Stallmann** crée la GNU General Public License (GNU GPL) et fonde la FSF (Free Software Foundation)
 2. 1991 : **Linus Torwald** démarre le développement de Linux (coeur du système) sous licence GNU GPL
 3. 1992 : Balbutiement du Web, création du langage HTML par **Tim Berners Lee**
-4. 2001 : création des licences *Creative Commons* par **Lawrence Lessing**
+4. 2001 : Création des licences *Creative Commons* par **Lawrence Lessing**
 
 ----
 
@@ -163,6 +163,7 @@ Plusieurs déclinaisons
 Vocabulaire
 ============
 
+
 :Distribution Linux: Noyau + gestionnaire de paquets + environnement de bureau + suite de logiciels
 :Noyau Linux: Coeur de Linux
 :Gestionnaire de paquets: système qui permet d'installer ou désinstaller des logiciels sur l'ordinateur
@@ -173,10 +174,12 @@ Vocabulaire
 Les distributions GNU/Linux
 ---------------------------
 
-* Debian, http://www.debian.org/
-* Ubuntu, http://www.ubuntu.com/
-* Fedora, https://fedoraproject.org/
-* Mint, http://www.linuxmint.com/
+* Debian, http://www.debian.org/ (1993)
+* Slackware, http://www.slackware.com/ (1993)
+* Arch Linux, https://www.archlinux.org/ (2002)
+* Fedora, https://fedoraproject.org/ (2003)
+* Ubuntu, http://www.ubuntu.com/ (2004)
+* Mint, http://www.linuxmint.com/ (2006)
 
 Les environnements de bureau
 ==============================
@@ -192,11 +195,11 @@ Presenter notes
 
 * Dérivés d'Ubuntu :
 
-- Kubuntu, http://www.kubuntu.org/
-- Lubuntu, http://lubuntu.net/
-- Xubuntu, http://xubuntu.org/
+- Kubuntu, http://www.kubuntu.org/ (2005)
+- Xubuntu, http://xubuntu.org/ (2005)
+- Lubuntu, http://lubuntu.net/ (2008)
 
-* Arch Linux, https://www.archlinux.org/
+
 
 ----
 
@@ -442,6 +445,11 @@ Credits
 * `« Earth Eastern Hemisphere » <http://visibleearth.nasa.gov/view_detail.php?id=2429http://veimages.gsfc.nasa.gov//2429/globe_east_540.jpg>`_ by NASA. Licensed under Public domain via `Wikimedia Commons  <http://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg#mediaviewer/File:Earth_Eastern_Hemisphere.jpg>`_
 
 * « Firefox OS phones », Par Maurizio Pesce, CC-By 2.0
-* "Intérieur cathédrale d'Albi" Par Nicolas Lefebvre, CC-By 2.0
-* "Sunday Bazar" Par Zainub Razvi, CC-By-SA 2.0
+* « Intérieur cathédrale d'Albi » Par Nicolas Lefebvre, CC-By 2.0
+* « Sunday Bazar » Par Zainub Razvi, CC-By-SA 2.0
 * « Global village construction set », from `Open Source Ecology <http://opensourceecology.org/gvcs>`_
+
+----
+
+Questions ?
+--------
