@@ -1,9 +1,9 @@
-========================
-Logiciels Libres et plus
-========================
+==============================
+Logiciels Libres, et aussi ...
+==============================
 
 Zoom du Mardi
--------------
+--------------
 
 Médiathèque Ludothèque de Blagnac
 
@@ -21,6 +21,11 @@ Présentation CC-By 3.0
 
 
 .fx: first-slide
+
+----
+
+Un Logiciel Libre, c'est quoi ?
+-------------------------------
 
 ----
 
@@ -46,7 +51,9 @@ Quelques dates clés
 ---------------------
 
 1. 1983 : **Richard Stallmann** crée la GNU General Public License (GNU GPL) et fonde la FSF (Free Software Foundation)
-2. 1990 : **Linus Torwald** démarre le développement de Linux (coeur du système) sous licence GNU GPL
+2. 1991 : **Linus Torwald** démarre le développement de Linux (coeur du système) sous licence GNU GPL
+3. 1992 : Balbutiement du Web, création du langage HTML par **Tim Berners Lee**
+4. 2001 : création des licences *Creative Commons* par **Lawrence Lessing**
 
 ----
 
@@ -57,7 +64,7 @@ Un logiciel sous licence GNU GPL.
 D'autres licences existent par exemple la licence BSD (Berkeley Software Distribution).
 
 Les 4 libertés
---------------
+===============
 
 * liberté 0 : d'utiliser
 * liberté 1 : de copier
@@ -92,10 +99,27 @@ Cela implique d'avoir accès au code source, mais n'est pas une condition suffis
 Le code source ?
 ----------------
 
-C'est ce qui est écrit par le développeur dans un langage de programmation::
+.. image:: img/480-source-code-photo-tim-lucas-cc-by.jpg
+    :align: right
+
+Ce qui est écrit par le développeur dans un langage de programmation, la **recette**
+
+.. code::
 
     if $age >= 18:
         print "vous êtes majeur"
+
+Transformé en langage binaire pour être exécuté sur la machine
+
+Presenter notes
+---------------
+
+Le code binaire est illisible par l'humain, qui a besoin du code source pour **étudier** et **redistribuer**
+
+----
+
+Des Logiciels Libres un peu partout
+------------------------------------
 
 ----
 
@@ -133,8 +157,11 @@ GNU/Linux, système d'exploitation libre
 
 ----
 
+Plusieurs déclinaisons
+----------------------
+
 Vocabulaire
------------
+============
 
 :Distribution Linux: Noyau + gestionnaire de paquets + environnement de bureau + suite de logiciels
 :Noyau Linux: Coeur de Linux
@@ -143,26 +170,25 @@ Vocabulaire
 
 ----
 
-Plusieurs déclinaisons
-----------------------
-
 Les distributions GNU/Linux
-===========================
+---------------------------
 
 * Debian, http://www.debian.org/
 * Ubuntu, http://www.ubuntu.com/
 * Fedora, https://fedoraproject.org/
+* Mint, http://www.linuxmint.com/
 
 Les environnements de bureau
-============================
+==============================
 
 * Unity
 * Gnome
 * KDE
 * Maté
+* XFCE
 
 Presenter notes
-----------------
+================
 
 * Dérivés d'Ubuntu :
 
@@ -173,6 +199,16 @@ Presenter notes
 * Arch Linux, https://www.archlinux.org/
 
 ----
+
+Diversité d'interfaces utilisateurs
+-----------------------------------
+
+.. image:: img/environnement-graphique.png
+
+.fx: inverse
+
+----
+
 
 Des applications libres pour le Web
 ------------------------------------
@@ -228,7 +264,7 @@ Ubuntu phone (2013)
 - pas de téléphone disponible à ce jour
 - seulement annoncé
 
-.. figure:: img/mobile-firefoxos-photo-maurizio-pesce.jpg
+.. figure:: img/mobile-firefoxos-photo-maurizio-pesce-cc-by.jpg
     :class: bg-img bg-right
 
 ----
@@ -243,14 +279,70 @@ Et ailleurs
 
 ----
 
-« Il serait dommage de ne libérer que le logiciel »
------------------------------------------------------
+Libre, vraiment ?
+-----------------
+
+----
+
+Modèle économique
+------------------
+
+Communautés
+============
+
+* Fondations
+* Crowdfunding, dons
+* Contributions
+  - développement
+  - traductions
+  - documentation ...
+
+Entreprises
+===========
+
+* Développer des services et du conseil basé sur les Logiciels Libres
+* Amenées aussi à contribuer
+
+Institutions
+=============
+
+* Économie, Éthique
+* Nos impôts, nos logiciels ?
+* Des avancées dans l'adoption des Logiciels Libres
+
+----
+
+Gouvernance
+-----------
+
+Modèles de « la Cathédrale et du Bazar »
+
+* Gentil dictateur
+* Autogestion
+
+**En général entre les deux**
+
+.. image:: img/cathedrale-bazar.png
+
+----
+
+Le libre, ce bien commun
+-------------------------
+
+----
+
+Le libre, c'est aussi
+-----------------------
 
 * l'information
 * les savoirs
 * la création, la culture
 * le matériel
 * les réseaux
+
+.. class:: align-center
+
+**« Il serait dommage de ne libérer que le logiciel »**
 
 ----
 
@@ -268,7 +360,12 @@ Rappel ! des données **non nominatives**
 Savoirs communs
 ================
 
-Wikimedia commons, wikipedia
+Wikimedia commons, Wikipedia
+
+Les standards ouverts
+=====================
+
+Permettant l'**interopérabilité**, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.
 
 ----
 
@@ -279,35 +376,72 @@ La création pour et par tous
 * Les auteurs permettent aux utilisateurs plus d'usages que le droit d'auteur simple
 * le Domaine Public
 
-----
+Dans tous les domaines
+=======================
 
-Les standards ouverts
-----------------------
-
-Permettant l'**interopérabilité**, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.
+* Musique
+* Cinéma
+* Littérature
+* Bande dessinée
+* Peinture (numérique)
 
 ----
 
 Le matériel Libre
 ------------------
 
-* OpenHardware
-* Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**)
+Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**)
+
+Imprimantes 3D
+==============
+
+Elargit le domaine des possibles
+
+Et plus encore
+===============
+
+* `OpenSourceEcology <http://opensourceecology.org/>`_ et `Global Village construction set <https://linuxfr.org/news/kit-de-construction-du-village-global>`_
+* `Semences libres <http://scinfolex.com/2013/05/03/open-source-seeds-licence-une-licence-pour-liberer-les-semences/>`_
+
+.. image:: img/global-village-construction-set.png
 
 ----
 
 Les réseaux ouverts
 -------------------
 
-* La neutralité du Net
-* refuser la censure
-* mais nous pouvons être jugé à posteriori
+.. image:: img/network-photo-martin-abegglen-by-SA.jpg
+    :align: right
+
+Sans les réseaux, pas de coopération ...
+
+La neutralité du Net
+====================
+
+* Accès au même réseau pour tous
+
+Censure du Net
+==============
+
+* Refuser la censure a priori et le filtrage administratif
+* Si contrôle il doit y avoir, cela doit passer par un juge !
+
+Vie privées, données personnelles
+==================================
+
+* **Edward Snowden**
+* Contre la surveillance généralisée
+
+La Quadrature du Net défend nos libertés numériques https://www.laquadrature.net/
 
 ----
 
 Credits
 --------
 
-* "Earth Eastern Hemisphere" by NASA - http://visibleearth.nasa.gov/view_detail.php?id=2429http://veimages.gsfc.nasa.gov//2429/globe_east_540.jpg. Licensed under Public domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg#mediaviewer/File:Earth_Eastern_Hemisphere.jpg
+* `« Earth Eastern Hemisphere » <http://visibleearth.nasa.gov/view_detail.php?id=2429http://veimages.gsfc.nasa.gov//2429/globe_east_540.jpg>`_ by NASA. Licensed under Public domain via `Wikimedia Commons  <http://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg#mediaviewer/File:Earth_Eastern_Hemisphere.jpg>`_
 
-* 
+* « Firefox OS phones », Par Maurizio Pesce, CC-By 2.0
+* "Intérieur cathédrale d'Albi" Par Nicolas Lefebvre, CC-By 2.0
+* "Sunday Bazar" Par Zainub Razvi, CC-By-SA 2.0
+* « Global village construction set », from `Open Source Ecology <http://opensourceecology.org/gvcs>`_

@@ -338,6 +338,10 @@ section img.bg-right {
 section img.bg-left {
     left: 0;
 }
+section img.bg-bottom {
+    bottom: 0;
+    top: auto;
+}
 
 a {
   color: inherit;
@@ -521,7 +525,8 @@ div.slide.first-slide section {
     font-size: 20px;
     color: #FFFFFF;
 }
-div.slide.first-slide h1 {
+div.slide.first-slide h1,
+div.slide.first-slide h2 {
     text-align: center;
 }
 div.slide.first-slide p {
@@ -531,6 +536,9 @@ div.slide.first-slide p {
 /* inverse */
 div.slide.inverse {
     background-color: #000000;
+}
+div.slide.inverse section {
+    color: #CCC;
 }
 
 /* Pygments default theme */
