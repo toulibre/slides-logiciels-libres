@@ -177,11 +177,22 @@ Presenter notes
 Des applications libres pour le Web
 ------------------------------------
 
-Sur le web aussi, des outils libres
+.. image:: img/480px-Earth_Eastern_Hemisphere.jpg
+    :align: right
 
-* pour créer un blog ou un site internet
-* pour héberger vos propres mails
-* ...
+Sur le web aussi, des outils libres
+====================================
+
+* créer un blog ou un site internet
+* héberger nos propres mails
+* des réseaux sociaux
+* exposer des photos
+* communiquer 
+* s'organiser à plusieurs
+
+http://degooglisons-internet.org
+
+.fx: inverse
 
 ----
 
@@ -247,7 +258,7 @@ Libérer l'information et les savoirs
 -------------------------------------
 
 OpenData
---------
+==========
 
 Rappel ! des données **non nominatives**
 
@@ -255,10 +266,11 @@ Rappel ! des données **non nominatives**
 * la cartographie libre : OpenStreetMap
 
 Savoirs communs
----------------
+================
 
 Wikimedia commons, wikipedia
 
+----
 
 La création pour et par tous
 ---------------------------------
@@ -290,3 +302,12 @@ Les réseaux ouverts
 * La neutralité du Net
 * refuser la censure
 * mais nous pouvons être jugé à posteriori
+
+----
+
+Credits
+--------
+
+* "Earth Eastern Hemisphere" by NASA - http://visibleearth.nasa.gov/view_detail.php?id=2429http://veimages.gsfc.nasa.gov//2429/globe_east_540.jpg. Licensed under Public domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg#mediaviewer/File:Earth_Eastern_Hemisphere.jpg
+
+* 
