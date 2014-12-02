@@ -76,7 +76,7 @@ Les 4 libertés
 « Liberté, Égalité, Fraternité »
 --------------------------------
 
-.. image:: img/1137px-Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg
+.. image:: img/1137px-Eugene-Delacroix_-_La_liberte_guidant_le_peuple.jpg
     :class: bg-img
 
 *« Eugène Delacroix - La liberté guidant le peuple »*
