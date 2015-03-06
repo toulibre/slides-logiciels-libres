@@ -25,7 +25,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Présentations sur le Logiciel Libre</title>
+    <title>Un Logiciel Libre, c'est quoi ?</title>
     <!-- Styles -->
     
     <style type="text/css" media="print">
@@ -408,16 +408,8 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
   margin: 0;
 }
 
-header h1 {
-  color: #FFAD08;
-}
-
 header h2:first-child {
   margin-top: 0;
-}
-
-section h2 {
-  color: #E4401F;
 }
 
 section, .slide header:only-child h1 {
@@ -501,10 +493,6 @@ li li:before {
   font-size: 18px;
 }
 
-li p {
-    margin: 0;
-}
-
 .slide header:only-child h1 {
   line-height: 180%;
   text-align: center;
@@ -515,8 +503,6 @@ li p {
   font-size: 50px;
   margin-top:100px;
   margin-bottom:100px;
-  color: #FFAD08;
-  background-color: #000000;
 }
 
 .sidebar {
@@ -616,34 +602,6 @@ aside {
 }
   div.slide p.notes {
     font-size: 90%;
-}
-
-/* Styles *
- * ------ */
-
-/* first-slide */
-div.slide.first-slide {
-    background-color: #000000;
-}
-div.slide.first-slide header {
-    text-align: center;
-    padding: 60px 30px;
-}
-div.slide.first-slide section {
-    margin-top: 190px;
-    font-size: 20px;
-    color: #FFFFFF;
-}
-div.slide.first-slide h1 {
-    text-align: center;
-}
-div.slide.first-slide p {
-    text-align: center;
-}
-
-/* inverse */
-div.slide.inverse {
-    background-color: #000000;
 }
 
 /* Pygments default theme */
@@ -1319,23 +1277,22 @@ div.slide.inverse {
     </div>
     <div class="slides">
       
-      <!-- slide source: README.md -->
+      <!-- slide source: presentation-logiciels-libres.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h1>Présentations sur le Logiciel Libre</h1></header>
+            <header><h1>Un Logiciel Libre, c'est quoi ?</h1></header>
             
             
-            <section><p>Les présentations proposées par Toulibre.</p>
-<ul>
-<li><a href="http://toulibre.github.io/slides-logiciels-libres/toulibre.html" title="Toulibre">L'association Toulibre</a></li>
-<li><a href="http://toulibre.github.io/slides-logiciels-libres/logiciels-libres-et-plus-2014-1205-mediatheque-blagnac.html" title="Présentations sur le Logiciel Libre">Le Logiciel Libre</a></li>
-<li><a href="http://toulibre.github.io/slides-logiciels-libres/wordpress.html" title="Découverte de Wordpress">Découverte de Wordpress</a></li>
-<li><a href="http://toulibre.github.io/slides-logiciels-libres/gimp-2014-0327-mediatheque-tournefeuille.html" title="Découverte de Gimp">Découverte de Gimp</a></li>
+            <section><h2>Les 4 libertés</h2>
+<ul class="simple">
+<li>liberté 0 : d'utiliser</li>
+<li>liberté 1 : de copier</li>
+<li>liberté 2 : d'étudier</li>
+<li>liberté 3 : de modifier le logiciel et de redistribuer les versions modifiées</li>
 </ul>
-<h2><a href="https://github.com/toulibre/slides-logiciels-libres/">Forkez</a> !!</h2>
-<p>N'hésitez pas à reprendre pour vous ces présentations, à réutiliser le thème Toulibre.</p></section>
+<p>Cela implique d'avoir accès au code source, mais n'est pas une condition suffisante.</p></section>
             
           </div>
           <div class="presenter_notes">
@@ -1347,39 +1304,35 @@ div.slide.inverse {
           <footer>
             
             <aside class="source">
-              Source: <a href="README.md">README.md</a>
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
             </aside>
             
             <aside class="page_number">
-              1/2
+              1/7
             </aside>
           </footer>
         </div>
       </div>
       
-      <!-- slide source: README.md -->
+      <!-- slide source: presentation-logiciels-libres.rst -->
       <div class="slide-wrapper">
         <div class="slide">
           <div class="inner">
             
-            <header><h2>Comment ça marche</h2></header>
+            <header><h1>Quelques Logiciels Libres</h1></header>
             
             
-            <section><p>Ces présentations utilisent Landslide. Créez un virtualenv, puis installer landslide :</p>
-<pre><code>mkvirtualenv landslide
-clone https://github.com/toulibre/slides-logiciels-libres.git
-cd slides-logiciels-libres
-pip install requirements.txt
-</code></pre>
-<p>Modifiez les fichiers rst (vous pouvez également utiliser md ou textile). Configurer les <code>.cfg</code> pour exporter la présentation dans le dossier <code>www/</code>.
-Puis lancez la commande <code>landslide</code>:</p>
-<pre><code>cd &lt;dossier de travail&gt; # si besoin
-landslide gimp.cfg
-</code></pre>
-<h2>Pour ce dépôt</h2>
-<p>Les présentations sont visibles sur [Github pages de ce dépôt](http://toulibre.github.io/slides-logiciels-libres/. Utilisez la commande <code>ghp-import</code></p>
-<pre><code>ghp-import -p www/
-</code></pre></section>
+            <section><p>Vous connaissez déjà des Logiciels Libres</p>
+<ul class="simple">
+<li>Naviguer sur Internet avec <strong>Firefox</strong></li>
+<li>Suite bureautique <strong>LibreOffice</strong></li>
+<li>Couteau suisse de la vidéo <strong>VLC</strong></li>
+<li>Retouche image <strong>Gimp</strong></li>
+<li>Dessin vectoriel <strong>Inkscape</strong></li>
+<li>...</li>
+</ul>
+<p>En savoir plus sur l'annuaire du Libre
+<a class="reference external" href="http://framasoft.net/">http://framasoft.net/</a></p></section>
             
           </div>
           <div class="presenter_notes">
@@ -1391,11 +1344,219 @@ landslide gimp.cfg
           <footer>
             
             <aside class="source">
-              Source: <a href="README.md">README.md</a>
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
             </aside>
             
             <aside class="page_number">
-              2/2
+              2/7
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: presentation-logiciels-libres.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Passer à GNU/Linux</h1></header>
+            
+            
+            <section><h2>Libérez votre système</h2>
+<p>Retrouvez vos logiciels libres préférés dans leur environnement naturel</p>
+<ul class="simple">
+<li>Les mêmes logiciels, et pleins d'autres</li>
+<li>Installation et utilisation accessible à tous</li>
+<li>Système sûr et fiable</li>
+<li>Permet d'aller plus loin dans l'utilisation et l'apprentissage de l'informatique</li>
+</ul></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              3/7
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: presentation-logiciels-libres.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Question de vocabulaire</h1></header>
+            
+            
+            <section><h2>Quelques définitions</h2>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field"><th class="field-name">Noyau:</th><td class="field-body">Coeur de Linux</td>
+</tr>
+<tr class="field"><th class="field-name">Distribution:</th><td class="field-body">Noyau + système de paquets + suite de logiciels</td>
+</tr>
+</tbody>
+</table></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              4/7
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: presentation-logiciels-libres.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Les distributions GNU/Linux</h1></header>
+            
+            
+            <section><ul class="simple">
+<li>Debian, <a class="reference external" href="http://www.debian.org/">http://www.debian.org/</a></li>
+<li>Slackware, <a class="reference external" href="http://www.slackware.com/">http://www.slackware.com/</a></li>
+<li>Ubuntu, <a class="reference external" href="http://www.ubuntu.com/">http://www.ubuntu.com/</a></li>
+<li>Dérivés d'Ubuntu :</li>
+</ul>
+<ul class="simple">
+<li>Kubuntu, <a class="reference external" href="http://www.kubuntu.org/">http://www.kubuntu.org/</a></li>
+<li>Lubuntu, <a class="reference external" href="http://lubuntu.net/">http://lubuntu.net/</a></li>
+<li>Xubuntu, <a class="reference external" href="http://xubuntu.org/">http://xubuntu.org/</a></li>
+</ul>
+<ul class="simple">
+<li>Fedora, <a class="reference external" href="https://fedoraproject.org/">https://fedoraproject.org/</a></li>
+<li>Arch Linux, <a class="reference external" href="https://www.archlinux.org/">https://www.archlinux.org/</a></li>
+</ul></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              5/7
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: presentation-logiciels-libres.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Le Libre c'est aussi ...</h1></header>
+            
+            
+            <section><h2>Les savoirs communs</h2>
+<ul class="simple">
+<li>Wikimedia commons, wikipedia</li>
+<li>l'OpenData</li>
+</ul>
+
+
+<h2>La création libre</h2>
+<ul class="simple">
+<li>les Creative Commons</li>
+<li>le Domaine Public</li>
+</ul>
+
+
+<h2>Les standars ouverts</h2>
+<p>Permettant l'<strong>interopérabilité</strong>, c'est-à-dire l'échange d'un même fichier entre deux logiciels différents.</p></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              6/7
+            </aside>
+          </footer>
+        </div>
+      </div>
+      
+      <!-- slide source: presentation-logiciels-libres.rst -->
+      <div class="slide-wrapper">
+        <div class="slide">
+          <div class="inner">
+            
+            <header><h1>Le Libre c'est encore ...</h1></header>
+            
+            
+            <section><h2>Le matériel Libre</h2>
+<ul class="simple">
+<li>OpenHardware</li>
+<li>mouvements des fablabs</li>
+</ul>
+
+
+<h2>Les réseaux ouverts</h2>
+<ul class="simple">
+<li>La neutralité du Net</li>
+<li>refuser la censure</li>
+<li>mais nous pouvons être jugé à posteriori</li>
+</ul></section>
+            
+          </div>
+          <div class="presenter_notes">
+            <header><h1>Presenter Notes</h1></header>
+            <section>
+            
+            </section>
+          </div>
+          <footer>
+            
+            <aside class="source">
+              Source: <a href="presentation-logiciels-libres.rst">presentation-logiciels-libres.rst</a>
+            </aside>
+            
+            <aside class="page_number">
+              7/7
             </aside>
           </footer>
         </div>
@@ -1410,16 +1571,45 @@ landslide gimp.cfg
       <caption>Table of Contents</caption>
       
       <tr id="toc-row-1">
-        <th><a href="#slide1">Présentations sur le Logiciel Libre</a></th>
+        <th><a href="#slide1">Un Logiciel Libre, c'est quoi ?</a></th>
         <td><a href="#slide1">1</a></td>
       </tr>
       
-        
-        <tr id="toc-row-2" class="sub">
-          <th><a href="#slide2">Comment ça marche</a></th>
-          <td><a href="#slide2">2</a></td>
-        </tr>
-        
+      
+      <tr id="toc-row-2">
+        <th><a href="#slide2">Quelques Logiciels Libres</a></th>
+        <td><a href="#slide2">2</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-3">
+        <th><a href="#slide3">Passer à GNU/Linux</a></th>
+        <td><a href="#slide3">3</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-4">
+        <th><a href="#slide4">Question de vocabulaire</a></th>
+        <td><a href="#slide4">4</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-5">
+        <th><a href="#slide5">Les distributions GNU/Linux</a></th>
+        <td><a href="#slide5">5</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-6">
+        <th><a href="#slide6">Le Libre c'est aussi ...</a></th>
+        <td><a href="#slide6">6</a></td>
+      </tr>
+      
+      
+      <tr id="toc-row-7">
+        <th><a href="#slide7">Le Libre c'est encore ...</a></th>
+        <td><a href="#slide7">7</a></td>
+      </tr>
       
       
     </table>
