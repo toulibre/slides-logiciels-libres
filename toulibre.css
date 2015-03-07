@@ -45,6 +45,7 @@ header h2:first-child {
 section h2 {
   color: #E4401F;
   font-size: 30px;
+  margin-bottom: 0;
 }
 
 section, .slide header:only-child h1 {
@@ -59,6 +60,10 @@ section, .slide header:only-child h1 {
 }
 
 img { display: block; margin: auto; }
+
+section .text-center {
+    text-align: center;
+}
 
 section img.align-center {
   display: block;
