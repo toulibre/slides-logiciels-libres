@@ -105,7 +105,7 @@ Libérez votre ordinateur
 GNU/Linux, système d'exploitation libre
 =======================================
 
-* Les mêmes logiciels, et pleins d'autres
+* Les mêmes logiciels, et plein d'autres
 * Installation et utilisation accessible à tous
 * Système sûr et fiable
 * Permet d'aller plus loin dans l'utilisation et l'apprentissage de l'informatique
@@ -201,6 +201,8 @@ Campagne http://degooglisons-internet.org
 
 http://degooglisons-internet.org/
 
+.. image:: img/slider-degooglisons.png
+
 ----
 
 Le libre est partout !
@@ -215,7 +217,8 @@ Android (2005)
 ===================
 
 - presque libre
-- Replicant (2010), dérivé d'Android sans les composants propriétaires
+- Replicant (2010), 
+    - dérivé d'Android sans les composants propriétaires
 
 FirefoxOS (2011)
 ===================
@@ -240,6 +243,11 @@ Et aussi ...
 * les objets connectés
 
 **Vivons-nous une nouvelle révolution technologique ?**
+
+Presenter notes
+===============
+
+75% des serveurs sont sous linux ?
 
 ----
 
@@ -278,8 +286,10 @@ Rappel ! des données **non nominatives**
 * la cartographie libre : OpenStreetMap
 * **Résultats des prochaines élections**
 
-Des mouvements de démocratie participatives
+Des mouvements de démocratie citoyennes
 ============================================
+
+`Regards citoyens <http://www.regardscitoyens.org/>`_
 
 ----
 
@@ -417,7 +427,7 @@ Culture libre dans tous les domaines
 -------------------------------------
 
 * Musique (association `Musique libre! <http://musique-libre.org/>`_, `Jamendo <http://jamendo.com/>`_)
-* Cinéma (`« Sita sing the Blues » <http://sitasingstheblues.com/`_, Blender foundation)
+* Cinéma (`« Sita sing the Blues » <http://sitasingstheblues.com/>`_, Blender foundation)
 * Littérature (Pouhiou, Ploum, Neil Jomunsi, ...)
 * Bande dessinée
 * Peinture
