@@ -5,15 +5,13 @@ Logiciels Libres et culture libre
 Libérons l'informatique
 -----------------------
 
-Pavillon Blanc, Colomiers
+Alternatiba Toulouse
 
-Samedi 7 mars
+Samedi 12 Septembre 2015
 
 --
 
 Emmanuelle Helly, association Toulibre
-
-Pouhiou, association Framasoft
 
 --
 
@@ -56,9 +54,9 @@ Un Logiciel Libre, c'est quoi ?
 Les 4 libertés
 ===============
 
-* liberté 0 : d'utiliser
-* liberté 1 : de copier
-* liberté 2 : d'étudier
+* liberté 0 : d'utiliser le logiciel
+* liberté 1 : d'étudier
+* liberté 2 : de redistribuer des copies du logiciel
 * liberté 3 : de modifier le logiciel et de redistribuer les versions modifiées
 
 Principe de la licence GNU GPL, créée en 1983 par Richard Stallmann
@@ -114,22 +112,11 @@ GNU/Linux, système d'exploitation libre
 
 ----
 
-Les variantes de GNU/Linux : **distribution**
----------------------------------------------
-
-.. image:: img/distribution.png
-
-`Debian <http://www.debian.org/>`_ (1993),
-`Slackware <http://www.slackware.com/>`_ (1993),
-`RedHat <https://redhat.com>`_ (1994),
-`Fedora <https://fedoraproject.org/>`_ (2003),
-`Ubuntu <http://www.ubuntu.com/>`_ (2004)
-`Mint <http://www.linuxmint.com/>`_ (2006)
-
-----
-
 Vocabulaire
 ------------
+
+.. image:: img/distribution-480.png
+    :align: right
 
 * **Distribution Linux**: Noyau + gestionnaire de paquets + environnement de bureau + suite de logiciels
 * **Noyau Linux**: Coeur de Linux
@@ -138,9 +125,11 @@ Vocabulaire
 
 ----
 
+Diversité de l'écosystème
+-------------------------
 
-Diversité d'interfaces utilisateurs
------------------------------------
+ * plusieurs interfaces utilisateurs
+ * pleins de distributions
 
 .. image:: img/environnement-graphique.png
 
@@ -186,6 +175,8 @@ Des applications Web libres pour ...
 * exposer des photos
 * communiquer
 * s'organiser à plusieurs
+* partager des images
+* ...
 
 .fx: inverse
 
@@ -205,33 +196,26 @@ http://degooglisons-internet.org/
 
 ----
 
-Le libre est partout !
------------------------
+Du libre dans votre téléphone
+------------------------------
+
+* Android (2005), presque libre, basé sur un noyau Linux
+* FirefoxOS (2011) et Ubuntu phone (2013)
+
+Si vous devez changer de mobile, pensez au marché de l'occasion ...
 
 ----
 
-Sur votre téléphone
--------------------
+le projet `fairphone <https://www.fairphone.com/>`_
+----------------------------------------------------
 
-Android (2005)
-===================
+* assemblage modulaire
+* composant non fourni par des pays en guerre
+* choix des usines de fabrication selon des critères sociaux
 
-- presque libre
-- Replicant (2010),
-    - dérivé d'Android sans les composants propriétaires
+Fairphone 2 en prévision
 
-FirefoxOS (2011)
-===================
-
-premier téléphone juillet 2013
-
-Ubuntu phone (2013)
-===================
-
-plusieurs téléphones en cours de sortie
-
-.. figure:: img/mobile-firefoxos-photo-maurizio-pesce-cc-by.jpg
-    :class: bg-img bg-right
+.. figure:: img/fairphone2-cc-by-sa-nc.jpg
 
 ----
 
@@ -239,10 +223,9 @@ Et aussi ...
 -------------
 
 * les réseaux : basés sur des protocoles ouverts et standardisés
+* les serveurs web : en grande partie du libre (Linux, *BSD, ...)
 * domotique, robots, télé, consoles ... il y a du libre dedans
 * les objets connectés
-
-**Vivons-nous une nouvelle révolution technologique ?**
 
 Presenter notes
 ===============
@@ -264,7 +247,7 @@ Des savoirs communs
 ====================
 
 * Wikimedia commons, Wikipedia
-* Des publications de recherche
+* Des publications de recherche diffusées librement (Mouvement OpenAccess)
 * Multitude de cours en ligne sous licence libre
 
 Les standards ouverts
@@ -296,17 +279,29 @@ Des mouvements de démocratie citoyennes
 Le matériel Libre
 ------------------
 
-Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**)
-
-Imprimantes 3D
-==============
+Mouvements des fablabs (**Artilect**) et des hackerspaces (**Tetalab**), Imprimantes 3D
 
 Élargit le domaine des possibles
 
 * `OpenSourceEcology <http://opensourceecology.org/>`_ (`fr <http://www.osefrance.fr/>`_) et `Global Village construction set <https://linuxfr.org/news/kit-de-construction-du-village-global>`_
 * `Semences libres <http://scinfolex.com/2013/05/03/open-source-seeds-licence-une-licence-pour-liberer-les-semences/>`_
+* `OpenDesk <http://opendesk.cc/>`_, des meubles sous licence libre
 
 .. image:: img/global-village-construction-set.png
+
+----
+
+POC21.cc (Proof Of Concept)
+------------------------------
+
+.. image:: img/Concentrateur-solaire-by-Manon.jpg
+    :align: right
+
+Construire un village écologique avec des équipements dont la documentation de conception et réalisation sera libre.
+
+Une Initiative qui réunit Écologie, DIY et OpenSource
+
+.. image:: img/bicitractor-mathieu-grosche.jpeg
 
 ----
 
@@ -316,26 +311,13 @@ Les réseaux ouverts, pourquoi c'est important
 .. image:: img/network-photo-martin-abegglen-by-SA.jpg
     :align: right
 
-Sans les réseaux, pas de coopération ...
+Sans les réseaux, pas de coopération ... Alors on les bichonne
 
-La neutralité du Net
-====================
+* Accès au même réseau pour tous : Neutralité du Net
+* filtrage administratif : refuser la censure sans contrôle d'un juge
+* surveillance généralisée : les risques d'une société panoptique
 
-* Accès au même réseau pour tous
-
-Censure du Net
-==============
-
-* Refuser la censure a priori et le filtrage administratif
-* Si contrôle il doit y avoir, cela doit passer par un juge !
-
-Vie privées, données personnelles
-==================================
-
-* **Edward Snowden**, lanceur d'alerte
-* Contre la surveillance généralisée
-
-La Quadrature du Net défend nos libertés numériques https://www.laquadrature.net/
+Revenez demain, Sophie Niklaus en parlera dans sa conférence !!
 
 ----
 
@@ -443,6 +425,9 @@ Credits
 * `Gwenn Seemel, Fairy hands 2015 <http://www.gwennseemel.com/index.php/paintings/of/2015Raccoon/>`_ , Public Domain
 * « Firefox OS phones », Par Maurizio Pesce, CC-By 2.0
 * « Global village construction set », from `Open Source Ecology <http://opensourceecology.org/gvcs>`_
+* « Bicitractor », photo Mathieu Grosche
+* Concentrateur solaire, photo Manon, du site officiel
+* fairphone, photo CC-By-SA-NC par Fairphone
 
 ----
 
@@ -463,16 +448,12 @@ Toulibre
 =========
 
 * Rencontre / install party et dépannage // CC de Bellegarde
-    - mercredi 11 et 25 mars
+    - mercredi 30 Septembre
 
 * Ateliers : 1 samedi par mois // CC de Bellegarde
-    - mercredi 14 mars : atelier Blender, atelier Audacity
+    - Samedi 10 octobre
 
-* `Capitole du Libre <http://2014.capitoledulibre.org/>`_, fin novembre
-
-* Samedi 21 mars, `Printemps des Hackers <http://dascritch.net/post/2015/03/05/Cryptoparty-de-printemps-%C3%A0-Utopia-Tournefeuille>`_, Utopia Tournefeuille
-    - Projection de `« Les gardiens du nouveau monde » <http://www.cinemas-utopia.org/toulouse/index.php?id=2643&mode=film>`_
-    - mini-conférences, Install party, Crypto party, Coding goûter
+* `Capitole du Libre <http://2014.capitoledulibre.org/>`_, 21 et 22 novembre toujours à l'N7
 
 Framasoft
 ==========
