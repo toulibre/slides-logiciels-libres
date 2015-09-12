@@ -122,7 +122,7 @@ Les variantes de GNU/Linux : **distribution**
 `Debian <http://www.debian.org/>`_ (1993),
 `Slackware <http://www.slackware.com/>`_ (1993),
 `RedHat <https://redhat.com>`_ (1994),
-`Fedora <https://fedoraproject.org/>`_ (2003), 
+`Fedora <https://fedoraproject.org/>`_ (2003),
 `Ubuntu <http://www.ubuntu.com/>`_ (2004)
 `Mint <http://www.linuxmint.com/>`_ (2006)
 
@@ -184,7 +184,7 @@ Des applications Web libres pour ...
 * héberger nos propres mails
 * des réseaux sociaux
 * exposer des photos
-* communiquer 
+* communiquer
 * s'organiser à plusieurs
 
 .fx: inverse
@@ -196,7 +196,7 @@ Campagne http://degooglisons-internet.org
 
 * Initiative de Framasoft
 * Alternatives aux services utilisés massivement
-* Documenter et démysitifier 
+* Documenter et démysitifier
 * Objectif : essaimer !
 
 http://degooglisons-internet.org/
@@ -217,7 +217,7 @@ Android (2005)
 ===================
 
 - presque libre
-- Replicant (2010), 
+- Replicant (2010),
     - dérivé d'Android sans les composants propriétaires
 
 FirefoxOS (2011)
@@ -303,7 +303,7 @@ Imprimantes 3D
 
 Élargit le domaine des possibles
 
-* `OpenSourceEcology <http://opensourceecology.org/>`_ et `Global Village construction set <https://linuxfr.org/news/kit-de-construction-du-village-global>`_
+* `OpenSourceEcology <http://opensourceecology.org/>`_ (`fr <http://www.osefrance.fr/>`_) et `Global Village construction set <https://linuxfr.org/news/kit-de-construction-du-village-global>`_
 * `Semences libres <http://scinfolex.com/2013/05/03/open-source-seeds-licence-une-licence-pour-liberer-les-semences/>`_
 
 .. image:: img/global-village-construction-set.png
