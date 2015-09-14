@@ -8,27 +8,31 @@ Mais il n'y a pas que Toulibre à Toulouse :)
 
 ----
 
-# Assos locales du logiciel libre
+# Associations locales du logiciel libre
 
 ## Toulibre
 
 ## [Combustible](http://combustible.fr/)
 
 * Objet : faire le lien entre les acteurs culturels et le numérique
-* Grosse composante libre, avec des ateliers informatique pour les Seniors et les enfants
+* Grosse composante libre, avec des ateliers informatique sous GNU/Linux pour les seniors et les enfants
+
+## [Club informatique de Montrabé](http://www.club-info-montrabe.net/)
+
+Utilise GNU/Linux, organisent une journée chaque année au printemps du libre.
 
 ## [le CULTe](http://www.culte.org/)
 
-* LUG à Ramonville
+* LUG à Ramonville, ateliers 1 samedi par mois environ
 
 ## [le PIC](http://www.le-pic.org/) (Projet Internet et Citoyenneté)
 
 * services d'hébergement aux associations
-* ateliers sur l'utlisation de CMS
+* ateliers le samedi sur l'utlisation du CMS *Spip* et des listes de discussion *Sympa*
 
 ----
 
-# Assos autour du libre
+# Associations locales autour du libre
 
 ## [Tetaneutral.net](http://tetaneutral.net/)
 
@@ -46,7 +50,7 @@ Association des entreprises du libre à Toulouse
 
 ----
 
-# Assos nationales
+# Associations nationales
 
 Des assos nationales qui ont des bénévoles à Toulouse
 

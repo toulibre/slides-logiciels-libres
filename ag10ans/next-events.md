@@ -32,7 +32,7 @@ Assemblée Générale 9 Septembre 2015
 
 Blender, KDE, Python, Gimp / Inkscape, Audionumérique ... le vôtre ?
 
-## lieux
+## Lieux
 
 * Bellegarde : un samedi par mois, premier **samedi 10 octobre**
 * Autres lieux : Ekito Grand Builder, Etincelle Coworking
@@ -98,7 +98,7 @@ Participation à "Un dimanche au bord du Lac" à la Reynerie
 * logistique : repas bénévoles et public, soirée du samedi soir, ...
 * programmation : choisir les intervenants, établir le programme, les horaires, ...
 
-Liste de discussion dédiée : capitoledulibre@toulibre.org
+Liste de discussion dédiée : [capitoledulibre@toulibre.org](http://www.toulibre.org/mailman/listinfo/capitoledulibre)
 
 ----
 
@@ -106,18 +106,27 @@ Liste de discussion dédiée : capitoledulibre@toulibre.org
 
 Pour aider sur les événements, proposer vos projets, exposer vos idées, ...
 
-* **Capitole du libre :** liste **capitoledulibre@toulibre.org** (liste ouverte, sur inscription)
-* Les autres événements, ateliers, rencontres : liste **toulibre-orga@toulibre.org** (liste ouverte, sur inscription)
-* **Écrire au CA** : liste **toulibre-ca@toulibre.org** (liste à accès restreint, mais on reçoit les mails)
+* **Capitole du libre :** liste **[capitoledulibre@toulibre.org](http://www.toulibre.org/mailman/listinfo/capitoledulibre)** (liste ouverte, sur inscription)
+* Les autres événements, ateliers, rencontres : liste **[toulibre-orga@toulibre.org](http://www.toulibre.org/mailman/listinfo/toulibre-orga)** (liste ouverte, sur inscription)
+* **Écrire au CA** : liste **[toulibre-ca@toulibre.org](http://www.toulibre.org/mailman/listinfo/toulibre-ca)** (liste à accès restreint, mais on reçoit les mails)
 
 ## Autres moyens
 
-* Lettre d'info, infos générales, abonnez-vous : toulibre-annonces@toulouse.org
-* Discussions générales : toulouse-ll@toulouse.org
+* Lettre d'info, infos générales, abonnez-vous : [toulibre-annonces@toulouse.org](http://www.toulibre.org/mailman/listinfo/toulibre-annonces)
+* Discussions générales : [toulouse-ll@toulouse.org](http://www.toulibre.org/mailman/listinfo/toulouse-ll)
 * Trolls : irc, #toulibre :)
 
 ----
 
 # Perspectives : Sujets, Projets
 
-À vos idées
+À vos idées ...
+
+Propositions et suggestions de la soirée
+
+* Échange avec l'association [Dalle-LogiSigne](http://dalle-lsf.eu/logisignes/), qui a pour objet de fournir des ressources numériques libres en LSF
+* VLOG (Vidéo Blog) sur le Capitole du Libre
+* Constitution d'un groupe de MAO Toulouse (Musique assistée par ordinateur)
+* Atelier prise de son au Capitole du Libre
+* Suivre les projets numériques des collectivités, notamment sur les PC fournis aux lycéens par la région
+* (j'en ai oubliés ?)
